@@ -1,0 +1,8 @@
+class AO
+{
+public static void main(String args[])
+{
+int a=24,b=5;
+System.out,println("Subtraction of two numbers : "+(a-b));
+}
+}
