@@ -1,0 +1,6 @@
+s=input("Enter a String : ")
+sub=input("Enter a Substring : ")
+if sub in s:
+  print(sub, "is available in main string")
+else:
+  print(sub,"is not available in main string")
