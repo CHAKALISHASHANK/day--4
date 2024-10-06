@@ -1,0 +1,13 @@
+class Cmd
+{
+public static void main(String args[])
+{
+int n=Integer.parseInt(args[0]);
+int fact=1;
+for(i=1;i<=n;i++)
+{
+fact=fact*i;
+}
+Systam.out.println("Factorial of number: ");
+}
+}
